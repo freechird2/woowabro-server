@@ -1,0 +1,10 @@
+/node_modules
+yarn.lock
+.env
+.DS_Store
+/src/log
+/logs
+/builds
+/cache
+/uploads
+ecosystem.json
